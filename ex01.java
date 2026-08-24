@@ -14,7 +14,7 @@ public class Main
 		    alunos.add(nome);
 		}
 		
-		System.out.println("Lista de nomes: " + alunos);
+		System.out.println("Alunos cadastrados: " + alunos);
 		
 		sc.close();
 	}
